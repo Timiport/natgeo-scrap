@@ -1,2 +1,2 @@
-# tetw-scrap
-A scrapy program to scrapy articles from The Electric Typewriter (tetw.org)
+# natgeo-scrap
+A scrapy program to scrapy articles from Nation Geography
