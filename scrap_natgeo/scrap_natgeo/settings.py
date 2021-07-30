@@ -1,4 +1,4 @@
-# Scrapy settings for scrap_places project
+# Scrapy settings for scrap_natgeo project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,14 +7,15 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'scrap_places'
+BOT_NAME = 'scrap_natgeo'
 
-SPIDER_MODULES = ['scrap_places.spiders']
-NEWSPIDER_MODULE = 'scrap_places.spiders'
+SPIDER_MODULES = ['scrap_natgeo.spiders']
+NEWSPIDER_MODULE = 'scrap_natgeo.spiders'
+FEED_EXPORT_ENCODING = 'utf-8'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'scrap_places (+http://www.yourdomain.com)'
+#USER_AGENT = 'scrap_natgeo (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -45,13 +46,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'scrap_places.middlewares.ScrapPlacesSpiderMiddleware': 543,
+#    'scrap_natgeo.middlewares.ScrapNatgeoSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'scrap_places.middlewares.ScrapPlacesDownloaderMiddleware': 543,
+#    'scrap_natgeo.middlewares.ScrapNatgeoDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -63,7 +64,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'scrap_places.pipelines.ScrapPlacesPipeline': 300,
+#    'scrap_natgeo.pipelines.ScrapNatgeoPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
