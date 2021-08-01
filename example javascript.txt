@@ -1,0 +1,905 @@
+{
+    "tiles": [
+        {
+            "id": "29044477-031c-45c0-86cb-f8b342b6be26-f2-m3-t1",
+            "cmsType": "RegularImmersivePrismTile",
+            "description": "Already capable of growing in harsh conditions, sunflowers have the potential to withstand even more.",
+            "ctas": [
+                {
+                    "url": "https://www.nationalgeographic.com/environment/article/to-breed-a-more-climate-resilient-sunflower-look-to-ancient-cousins",
+                    "text": "natgeo.ctaText.read",
+                    "icon": "article"
+                }
+            ],
+            "img": {
+                "crps": [
+                    {
+                        "nm": "raw",
+                        "aspRto": 1.5693486590038315,
+                        "url": "https://i.natgeofe.com/n/108f6098-2b6d-4e15-84d3-f0f89504c6bc/GettyImages-1228106978.jpg"
+                    },
+                    {
+                        "nm": "16x9",
+                        "aspRto": 1.7777777777777777,
+                        "url": "https://i.natgeofe.com/n/108f6098-2b6d-4e15-84d3-f0f89504c6bc/GettyImages-1228106978_16x9.jpg"
+                    },
+                    {
+                        "nm": "3x2",
+                        "aspRto": 1.5,
+                        "url": "https://i.natgeofe.com/n/108f6098-2b6d-4e15-84d3-f0f89504c6bc/GettyImages-1228106978_3x2.jpg"
+                    },
+                    {
+                        "nm": "square",
+                        "aspRto": 1,
+                        "url": "https://i.natgeofe.com/n/108f6098-2b6d-4e15-84d3-f0f89504c6bc/GettyImages-1228106978_square.jpg"
+                    },
+                    {
+                        "nm": "2x3",
+                        "aspRto": 0.6666666666666666,
+                        "url": "https://i.natgeofe.com/n/108f6098-2b6d-4e15-84d3-f0f89504c6bc/GettyImages-1228106978_2x3.jpg"
+                    },
+                    {
+                        "nm": "3x4",
+                        "aspRto": 0.75,
+                        "url": "https://i.natgeofe.com/n/108f6098-2b6d-4e15-84d3-f0f89504c6bc/GettyImages-1228106978_3x4.jpg"
+                    },
+                    {
+                        "nm": "4x3",
+                        "aspRto": 1.3333333333333333,
+                        "url": "https://i.natgeofe.com/n/108f6098-2b6d-4e15-84d3-f0f89504c6bc/GettyImages-1228106978_4x3.jpg"
+                    },
+                    {
+                        "nm": "2x1",
+                        "aspRto": 2,
+                        "url": "https://i.natgeofe.com/n/108f6098-2b6d-4e15-84d3-f0f89504c6bc/GettyImages-1228106978_2x1.jpg"
+                    }
+                ],
+                "rt": "https://i.natgeofe.com/n/108f6098-2b6d-4e15-84d3-f0f89504c6bc/GettyImages-1228106978",
+                "src": "https://i.natgeofe.com/n/108f6098-2b6d-4e15-84d3-f0f89504c6bc/GettyImages-1228106978.jpg",
+                "dsc": "31 July 2020, Mecklenburg-Western Pomerania, Finkenthal: Sunflowers are blooming on one of the fields of the F\u00fcrstenhof producer association (aerial photograph taken with a drone). Sunflowers are cultivated on almost 700 hectares for the organic egg producer. In September and October the sunflowers are harvested, oil is pressed from the seeds and the press residues are used as protein carriers for the production of fodder.",
+                "ext": "jpg",
+                "ttl": "sunflower-landscape"
+            },
+            "abstract": "Already capable of growing in harsh conditions, sunflowers have the potential to withstand even more.",
+            "title": "How to breed a climate resilient sunflower? Look to its ancient cousins.",
+            "tags": [
+                {
+                    "name": "Environment",
+                    "id": "623ce370-3e67-3fb2-b9a5-070ceb9b2de5",
+                    "type": "sources",
+                    "uri": "https://www.nationalgeographic.com/environment"
+                },
+                {
+                    "name": "Planet Possible",
+                    "id": "938b311e-8648-368e-8058-12100da9e069",
+                    "type": "series",
+                    "uri": "https://www.nationalgeographic.com/pages/topic/planet-possible"
+                }
+            ]
+        },
+        {
+            "id": "29044477-031c-45c0-86cb-f8b342b6be26-f2-m3-t1",
+            "cmsType": "RegularEdgeToEdgePrismTile",
+            "description": "From cloning to assisted reproduction, experts are working on land and under the sea to boost coral populations before they die out.",
+            "ctas": [
+                {
+                    "url": "https://www.nationalgeographic.com/magazine/graphics/a-look-at-the-race-to-save-the-worlds-coral-reefs-feature",
+                    "text": "natgeo.ctaText.explore",
+                    "icon": "interactive"
+                }
+            ],
+            "img": {
+                "crps": [
+                    {
+                        "nm": "raw",
+                        "aspRto": 1.4981132075471697,
+                        "url": "https://i.natgeofe.com/n/655a34c9-c8e8-4295-a0e8-96f6a53e1465/CoralsOGimage.jpg"
+                    },
+                    {
+                        "nm": "16x9",
+                        "aspRto": 1.7777777777777777,
+                        "url": "https://i.natgeofe.com/n/655a34c9-c8e8-4295-a0e8-96f6a53e1465/CoralsOGimage_16x9.jpg"
+                    },
+                    {
+                        "nm": "3x2",
+                        "aspRto": 1.5,
+                        "url": "https://i.natgeofe.com/n/655a34c9-c8e8-4295-a0e8-96f6a53e1465/CoralsOGimage_3x2.jpg"
+                    },
+                    {
+                        "nm": "square",
+                        "aspRto": 1,
+                        "url": "https://i.natgeofe.com/n/655a34c9-c8e8-4295-a0e8-96f6a53e1465/CoralsOGimage_square.jpg"
+                    },
+                    {
+                        "nm": "2x3",
+                        "aspRto": 0.6666666666666666,
+                        "url": "https://i.natgeofe.com/n/655a34c9-c8e8-4295-a0e8-96f6a53e1465/CoralsOGimage_2x3.jpg"
+                    },
+                    {
+                        "nm": "3x4",
+                        "aspRto": 0.75,
+                        "url": "https://i.natgeofe.com/n/655a34c9-c8e8-4295-a0e8-96f6a53e1465/CoralsOGimage_3x4.jpg"
+                    },
+                    {
+                        "nm": "4x3",
+                        "aspRto": 1.3333333333333333,
+                        "url": "https://i.natgeofe.com/n/655a34c9-c8e8-4295-a0e8-96f6a53e1465/CoralsOGimage_4x3.jpg"
+                    },
+                    {
+                        "nm": "2x1",
+                        "aspRto": 2,
+                        "url": "https://i.natgeofe.com/n/655a34c9-c8e8-4295-a0e8-96f6a53e1465/CoralsOGimage_2x1.jpg"
+                    }
+                ],
+                "rt": "https://i.natgeofe.com/n/655a34c9-c8e8-4295-a0e8-96f6a53e1465/CoralsOGimage",
+                "src": "https://i.natgeofe.com/n/655a34c9-c8e8-4295-a0e8-96f6a53e1465/CoralsOGimage.jpg",
+                "dsc": "New",
+                "ext": "jpg",
+                "ttl": "ngm-2105-coral-timelapse-graphic-og"
+            },
+            "abstract": "From cloning to assisted reproduction, experts are working on land and under the sea to boost coral populations before they die out.",
+            "title": "A look at the race to save the world\u2019s coral reefs",
+            "tags": [
+                {
+                    "name": "Magazine",
+                    "type": "sources"
+                },
+                {
+                    "name": "Planet Possible",
+                    "type": "series"
+                }
+            ]
+        },
+        {
+            "id": "29044477-031c-45c0-86cb-f8b342b6be26-f2-m3-t1",
+            "cmsType": "RegularEdgeToEdgePrismTile",
+            "description": "For all the threats to the ocean\u2014warming, overfishing, pollution\u2014a veteran undersea photographer sees ways to help and reasons for hope.",
+            "ctas": [
+                {
+                    "url": "https://www.nationalgeographic.com/magazine/article/why-we-are-optimistic-we-can-save-our-oceans",
+                    "text": "natgeo.ctaText.read",
+                    "icon": "article"
+                }
+            ],
+            "img": {
+                "crps": [
+                    {
+                        "nm": "raw",
+                        "aspRto": 1.5003663003663004,
+                        "url": "https://i.natgeofe.com/n/d7de9d5d-3060-45d0-81c8-5893f4a981e5/NGS150S18__181121_00804.jpg"
+                    },
+                    {
+                        "nm": "16x9",
+                        "aspRto": 1.7777777777777777,
+                        "url": "https://i.natgeofe.com/n/d7de9d5d-3060-45d0-81c8-5893f4a981e5/NGS150S18__181121_00804_16x9.jpg"
+                    },
+                    {
+                        "nm": "3x2",
+                        "aspRto": 1.5,
+                        "url": "https://i.natgeofe.com/n/d7de9d5d-3060-45d0-81c8-5893f4a981e5/NGS150S18__181121_00804_3x2.jpg"
+                    },
+                    {
+                        "nm": "square",
+                        "aspRto": 1,
+                        "url": "https://i.natgeofe.com/n/d7de9d5d-3060-45d0-81c8-5893f4a981e5/NGS150S18__181121_00804_square.jpg"
+                    },
+                    {
+                        "nm": "2x3",
+                        "aspRto": 0.6666666666666666,
+                        "url": "https://i.natgeofe.com/n/d7de9d5d-3060-45d0-81c8-5893f4a981e5/NGS150S18__181121_00804_2x3.jpg"
+                    },
+                    {
+                        "nm": "3x4",
+                        "aspRto": 0.75,
+                        "url": "https://i.natgeofe.com/n/d7de9d5d-3060-45d0-81c8-5893f4a981e5/NGS150S18__181121_00804_3x4.jpg"
+                    },
+                    {
+                        "nm": "4x3",
+                        "aspRto": 1.3333333333333333,
+                        "url": "https://i.natgeofe.com/n/d7de9d5d-3060-45d0-81c8-5893f4a981e5/NGS150S18__181121_00804_4x3.jpg"
+                    },
+                    {
+                        "nm": "2x1",
+                        "aspRto": 2,
+                        "url": "https://i.natgeofe.com/n/d7de9d5d-3060-45d0-81c8-5893f4a981e5/NGS150S18__181121_00804_2x1.jpg"
+                    }
+                ],
+                "rt": "https://i.natgeofe.com/n/d7de9d5d-3060-45d0-81c8-5893f4a981e5/NGS150S18__181121_00804",
+                "src": "https://i.natgeofe.com/n/d7de9d5d-3060-45d0-81c8-5893f4a981e5/NGS150S18__181121_00804.jpg",
+                "dsc": "In 2018 David Doubilet accompanied scientists to an area of Australia\u2019s Great Barrier Reef where they sampled corals that had recovered after a devastating bleaching event. Amid patches of death, \u201cthe survivor branching corals stand tall and reach for the sun,\u201d he notes.",
+                "ext": "jpg",
+                "ttl": "editor-page-05.2021-corals"
+            },
+            "abstract": "For all the threats to the ocean\u2014warming, overfishing, pollution\u2014a veteran undersea photographer sees ways to help and reasons for hope.",
+            "title": "Why we\u2019re optimistic we can save our oceans",
+            "tags": [
+                {
+                    "name": "Magazine",
+                    "id": "9af83c1e-1fdc-3710-b252-c42eedb1b7c1",
+                    "type": "sources",
+                    "uri": "https://www.nationalgeographic.com/magazine"
+                },
+                {
+                    "name": "From the Editor",
+                    "id": "ed7a0a3d-74e8-3237-8454-c3862c0f8838",
+                    "type": "series"
+                }
+            ]
+        },
+        {
+            "id": "29044477-031c-45c0-86cb-f8b342b6be26-f2-m3-t1",
+            "cmsType": "RegularEdgeToEdgePrismTile",
+            "description": "With an eye toward cleaner air and eco-friendly design, innovators tie their creations into Earth\u2019s perpetual processes.",
+            "ctas": [
+                {
+                    "url": "https://www.nationalgeographic.com/magazine/article/turning-soot-into-ink-algae-into-lighting-and-other-green-ideas",
+                    "text": "natgeo.ctaText.read",
+                    "icon": "article"
+                }
+            ],
+            "img": {
+                "crps": [
+                    {
+                        "nm": "raw",
+                        "aspRto": 1.994157740993184,
+                        "url": "https://i.natgeofe.com/n/78b64c87-1bfa-4dfb-97bc-d7a46d8c1aba/STOCK_Air%E2%80%93Ink%20Product%20Shots4.jpg"
+                    },
+                    {
+                        "nm": "16x9",
+                        "aspRto": 1.7777777777777777,
+                        "url": "https://i.natgeofe.com/n/78b64c87-1bfa-4dfb-97bc-d7a46d8c1aba/STOCK_Air%E2%80%93Ink%20Product%20Shots4_16x9.jpg"
+                    },
+                    {
+                        "nm": "3x2",
+                        "aspRto": 1.5,
+                        "url": "https://i.natgeofe.com/n/78b64c87-1bfa-4dfb-97bc-d7a46d8c1aba/STOCK_Air%E2%80%93Ink%20Product%20Shots4_3x2.jpg"
+                    },
+                    {
+                        "nm": "square",
+                        "aspRto": 1,
+                        "url": "https://i.natgeofe.com/n/78b64c87-1bfa-4dfb-97bc-d7a46d8c1aba/STOCK_Air%E2%80%93Ink%20Product%20Shots4_square.jpg"
+                    },
+                    {
+                        "nm": "2x3",
+                        "aspRto": 0.6666666666666666,
+                        "url": "https://i.natgeofe.com/n/78b64c87-1bfa-4dfb-97bc-d7a46d8c1aba/STOCK_Air%E2%80%93Ink%20Product%20Shots4_2x3.jpg"
+                    },
+                    {
+                        "nm": "3x4",
+                        "aspRto": 0.75,
+                        "url": "https://i.natgeofe.com/n/78b64c87-1bfa-4dfb-97bc-d7a46d8c1aba/STOCK_Air%E2%80%93Ink%20Product%20Shots4_3x4.jpg"
+                    },
+                    {
+                        "nm": "4x3",
+                        "aspRto": 1.3333333333333333,
+                        "url": "https://i.natgeofe.com/n/78b64c87-1bfa-4dfb-97bc-d7a46d8c1aba/STOCK_Air%E2%80%93Ink%20Product%20Shots4_4x3.jpg"
+                    },
+                    {
+                        "nm": "2x1",
+                        "aspRto": 2,
+                        "url": "https://i.natgeofe.com/n/78b64c87-1bfa-4dfb-97bc-d7a46d8c1aba/STOCK_Air%E2%80%93Ink%20Product%20Shots4_2x1.jpg"
+                    }
+                ],
+                "rt": "https://i.natgeofe.com/n/78b64c87-1bfa-4dfb-97bc-d7a46d8c1aba/STOCK_Air\u2013Ink Product Shots4",
+                "src": "https://i.natgeofe.com/n/78b64c87-1bfa-4dfb-97bc-d7a46d8c1aba/STOCK_Air\u2013Ink Product Shots4.jpg",
+                "dsc": "As long as we\u2019re burning fossil fuels, we might as well get every possible benefit: In India, a start-up company is using the black particles emitted in exhaust as a pigment to make ink.",
+                "ext": "jpg",
+                "ttl": "explore-05.21-ink"
+            },
+            "abstract": "With an eye toward cleaner air and eco-friendly design, innovators tie their creations into Earth\u2019s perpetual processes.",
+            "title": "Turning soot into ink, algae into lighting, and other green ideas",
+            "tags": [
+                {
+                    "name": "Magazine",
+                    "id": "9af83c1e-1fdc-3710-b252-c42eedb1b7c1",
+                    "type": "sources",
+                    "uri": "https://www.nationalgeographic.com/magazine"
+                },
+                {
+                    "name": "Planet Possible",
+                    "id": "938b311e-8648-368e-8058-12100da9e069",
+                    "type": "series",
+                    "uri": "https://www.nationalgeographic.com/pages/topic/planet-possible"
+                }
+            ]
+        },
+        {
+            "id": "29044477-031c-45c0-86cb-f8b342b6be26-f2-m3-t1",
+            "cmsType": "RegularEdgeToEdgePrismTile",
+            "description": "Every day we find new ways to conserve Earth\u2019s resources.",
+            "ctas": [
+                {
+                    "url": "https://www.nationalgeographic.com/magazine/article/5-new-ways-you-can-help-the-planet-today",
+                    "text": "natgeo.ctaText.read",
+                    "icon": "article"
+                }
+            ],
+            "img": {
+                "crps": [
+                    {
+                        "nm": "raw",
+                        "aspRto": 1.5003663003663004,
+                        "url": "https://i.natgeofe.com/n/eaaa05b7-f46a-4d20-a94e-1918994ac42a/STOCK_2105_GettyImages-89759580.jpg"
+                    },
+                    {
+                        "nm": "16x9",
+                        "aspRto": 1.7777777777777777,
+                        "url": "https://i.natgeofe.com/n/eaaa05b7-f46a-4d20-a94e-1918994ac42a/STOCK_2105_GettyImages-89759580_16x9.jpg"
+                    },
+                    {
+                        "nm": "3x2",
+                        "aspRto": 1.5,
+                        "url": "https://i.natgeofe.com/n/eaaa05b7-f46a-4d20-a94e-1918994ac42a/STOCK_2105_GettyImages-89759580_3x2.jpg"
+                    },
+                    {
+                        "nm": "square",
+                        "aspRto": 1,
+                        "url": "https://i.natgeofe.com/n/eaaa05b7-f46a-4d20-a94e-1918994ac42a/STOCK_2105_GettyImages-89759580_square.jpg"
+                    },
+                    {
+                        "nm": "2x3",
+                        "aspRto": 0.6666666666666666,
+                        "url": "https://i.natgeofe.com/n/eaaa05b7-f46a-4d20-a94e-1918994ac42a/STOCK_2105_GettyImages-89759580_2x3.jpg"
+                    },
+                    {
+                        "nm": "3x4",
+                        "aspRto": 0.75,
+                        "url": "https://i.natgeofe.com/n/eaaa05b7-f46a-4d20-a94e-1918994ac42a/STOCK_2105_GettyImages-89759580_3x4.jpg"
+                    },
+                    {
+                        "nm": "4x3",
+                        "aspRto": 1.3333333333333333,
+                        "url": "https://i.natgeofe.com/n/eaaa05b7-f46a-4d20-a94e-1918994ac42a/STOCK_2105_GettyImages-89759580_4x3.jpg"
+                    },
+                    {
+                        "nm": "2x1",
+                        "aspRto": 2,
+                        "url": "https://i.natgeofe.com/n/eaaa05b7-f46a-4d20-a94e-1918994ac42a/STOCK_2105_GettyImages-89759580_2x1.jpg"
+                    }
+                ],
+                "rt": "https://i.natgeofe.com/n/eaaa05b7-f46a-4d20-a94e-1918994ac42a/STOCK_2105_GettyImages-89759580",
+                "src": "https://i.natgeofe.com/n/eaaa05b7-f46a-4d20-a94e-1918994ac42a/STOCK_2105_GettyImages-89759580.jpg",
+                "dsc": "tk",
+                "ext": "jpg",
+                "ttl": "explore-05.21-insulation-shredded-jeans"
+            },
+            "abstract": "Every day we find new ways to conserve Earth\u2019s resources.",
+            "title": "5 new ways you can help the planet\u2014today",
+            "tags": [
+                {
+                    "name": "Magazine",
+                    "id": "9af83c1e-1fdc-3710-b252-c42eedb1b7c1",
+                    "type": "sources",
+                    "uri": "https://www.nationalgeographic.com/magazine"
+                },
+                {
+                    "name": "Planet Possible",
+                    "id": "938b311e-8648-368e-8058-12100da9e069",
+                    "type": "series",
+                    "uri": "https://www.nationalgeographic.com/pages/topic/planet-possible"
+                }
+            ]
+        },
+        {
+            "id": "29044477-031c-45c0-86cb-f8b342b6be26-f2-m3-t1",
+            "cmsType": "RegularEdgeToEdgePrismTile",
+            "description": "For four years, one of the largest icebergs ever recorded twisted and turned through Antarctic waters, nearly crashing into a marine sanctuary.",
+            "ctas": [
+                {
+                    "url": "https://www.nationalgeographic.com/magazine/graphics/see-iceberg-alley-where-huge-icebergs-are-driven-by-sea-currents",
+                    "text": "natgeo.ctaText.explore",
+                    "icon": "interactive"
+                }
+            ],
+            "img": {
+                "crps": [
+                    {
+                        "nm": "raw",
+                        "aspRto": 1.5,
+                        "url": "https://i.natgeofe.com/n/ec0ee997-306e-4778-be96-374acced342e/IcebergAlleyOG.jpg"
+                    },
+                    {
+                        "nm": "16x9",
+                        "aspRto": 1.7777777777777777,
+                        "url": "https://i.natgeofe.com/n/ec0ee997-306e-4778-be96-374acced342e/IcebergAlleyOG_16x9.jpg"
+                    },
+                    {
+                        "nm": "3x2",
+                        "aspRto": 1.5,
+                        "url": "https://i.natgeofe.com/n/ec0ee997-306e-4778-be96-374acced342e/IcebergAlleyOG_3x2.jpg"
+                    },
+                    {
+                        "nm": "square",
+                        "aspRto": 1,
+                        "url": "https://i.natgeofe.com/n/ec0ee997-306e-4778-be96-374acced342e/IcebergAlleyOG_square.jpg"
+                    },
+                    {
+                        "nm": "2x3",
+                        "aspRto": 0.6666666666666666,
+                        "url": "https://i.natgeofe.com/n/ec0ee997-306e-4778-be96-374acced342e/IcebergAlleyOG_2x3.jpg"
+                    },
+                    {
+                        "nm": "3x4",
+                        "aspRto": 0.75,
+                        "url": "https://i.natgeofe.com/n/ec0ee997-306e-4778-be96-374acced342e/IcebergAlleyOG_3x4.jpg"
+                    },
+                    {
+                        "nm": "4x3",
+                        "aspRto": 1.3333333333333333,
+                        "url": "https://i.natgeofe.com/n/ec0ee997-306e-4778-be96-374acced342e/IcebergAlleyOG_4x3.jpg"
+                    },
+                    {
+                        "nm": "2x1",
+                        "aspRto": 2,
+                        "url": "https://i.natgeofe.com/n/ec0ee997-306e-4778-be96-374acced342e/IcebergAlleyOG_2x1.jpg"
+                    }
+                ],
+                "rt": "https://i.natgeofe.com/n/ec0ee997-306e-4778-be96-374acced342e/IcebergAlleyOG",
+                "src": "https://i.natgeofe.com/n/ec0ee997-306e-4778-be96-374acced342e/IcebergAlleyOG.jpg",
+                "dsc": "New",
+                "ext": "jpg",
+                "ttl": "ngm-2105-iceberg-alley-OG"
+            },
+            "abstract": "For four years, one of the largest icebergs ever recorded twisted and turned through Antarctic waters, nearly crashing into a marine sanctuary.",
+            "title": "See Iceberg Alley, where huge icebergs are driven by sea currents",
+            "tags": [
+                {
+                    "name": "Magazine",
+                    "type": "sources"
+                },
+                {
+                    "name": "Atlas",
+                    "type": "series"
+                }
+            ]
+        },
+        {
+            "id": "29044477-031c-45c0-86cb-f8b342b6be26-f2-m3-t1",
+            "cmsType": "RegularEdgeToEdgePrismTile",
+            "description": "Personal protective equipment is made of plastic and isn't recyclable. Now it\u2019s being found everywhere on earth, including the oceans. The solution isn\u2019t complicated: Throw them away.",
+            "ctas": [
+                {
+                    "url": "https://www.nationalgeographic.com/environment/article/how-to-stop-discarded-face-masks-from-polluting-the-planet",
+                    "text": "natgeo.ctaText.read",
+                    "icon": "article"
+                }
+            ],
+            "img": {
+                "crps": [
+                    {
+                        "nm": "raw",
+                        "aspRto": 1.5003663003663004,
+                        "url": "https://i.natgeofe.com/n/7269d262-9772-4b23-906d-c50f631db686/STOCK_DSC8177.jpg"
+                    },
+                    {
+                        "nm": "16x9",
+                        "aspRto": 1.7777777777777777,
+                        "url": "https://i.natgeofe.com/n/7269d262-9772-4b23-906d-c50f631db686/STOCK_DSC8177_16x9.jpg"
+                    },
+                    {
+                        "nm": "3x2",
+                        "aspRto": 1.5,
+                        "url": "https://i.natgeofe.com/n/7269d262-9772-4b23-906d-c50f631db686/STOCK_DSC8177_3x2.jpg"
+                    },
+                    {
+                        "nm": "square",
+                        "aspRto": 1,
+                        "url": "https://i.natgeofe.com/n/7269d262-9772-4b23-906d-c50f631db686/STOCK_DSC8177_square.jpg"
+                    },
+                    {
+                        "nm": "2x3",
+                        "aspRto": 0.6666666666666666,
+                        "url": "https://i.natgeofe.com/n/7269d262-9772-4b23-906d-c50f631db686/STOCK_DSC8177_2x3.jpg"
+                    },
+                    {
+                        "nm": "3x4",
+                        "aspRto": 0.75,
+                        "url": "https://i.natgeofe.com/n/7269d262-9772-4b23-906d-c50f631db686/STOCK_DSC8177_3x4.jpg"
+                    },
+                    {
+                        "nm": "4x3",
+                        "aspRto": 1.3333333333333333,
+                        "url": "https://i.natgeofe.com/n/7269d262-9772-4b23-906d-c50f631db686/STOCK_DSC8177_4x3.jpg"
+                    },
+                    {
+                        "nm": "2x1",
+                        "aspRto": 2,
+                        "url": "https://i.natgeofe.com/n/7269d262-9772-4b23-906d-c50f631db686/STOCK_DSC8177_2x1.jpg"
+                    }
+                ],
+                "rt": "https://i.natgeofe.com/n/7269d262-9772-4b23-906d-c50f631db686/STOCK_DSC8177",
+                "src": "https://i.natgeofe.com/n/7269d262-9772-4b23-906d-c50f631db686/STOCK_DSC8177.jpg",
+                "dsc": "The COVID - 19 pandemic\u2019s effects extend to ocean ecosystems. Here, a California sea lion encounters a discarded face mask in the waters off Monterey.",
+                "ext": "jpg",
+                "ttl": "ppe-plastic"
+            },
+            "abstract": "Personal protective equipment is made of plastic and isn't recyclable. Now it\u2019s being found everywhere on earth, including the oceans. The solution isn\u2019t complicated: Throw them away.",
+            "title": "How to stop discarded face masks from polluting the planet",
+            "tags": [
+                {
+                    "name": "Environment",
+                    "id": "623ce370-3e67-3fb2-b9a5-070ceb9b2de5",
+                    "type": "sources",
+                    "uri": "https://www.nationalgeographic.com/environment"
+                },
+                {
+                    "name": "Planet Possible",
+                    "id": "938b311e-8648-368e-8058-12100da9e069",
+                    "type": "series",
+                    "uri": "https://www.nationalgeographic.com/pages/topic/planet-possible"
+                }
+            ]
+        },
+        {
+            "id": "29044477-031c-45c0-86cb-f8b342b6be26-f2-m3-t1",
+            "cmsType": "RegularEdgeToEdgePrismTile",
+            "description": "Once found near present-day St. Louis in Illinois, Cahokia suddenly declined 600 years ago, and no one knows why.",
+            "ctas": [
+                {
+                    "url": "https://www.nationalgeographic.com/environment/article/why-was-ancient-city-of-cahokia-abandoned-new-clues-rule-out-one-theory",
+                    "text": "natgeo.ctaText.read",
+                    "icon": "article"
+                }
+            ],
+            "img": {
+                "crps": [
+                    {
+                        "nm": "raw",
+                        "aspRto": 1.5003663003663004,
+                        "url": "https://i.natgeofe.com/n/80f016c0-5655-4260-830d-43baa69779a1/NationalGeographic_1381718.jpg"
+                    },
+                    {
+                        "nm": "16x9",
+                        "aspRto": 1.7777777777777777,
+                        "url": "https://i.natgeofe.com/n/80f016c0-5655-4260-830d-43baa69779a1/NationalGeographic_1381718_16x9.jpg"
+                    },
+                    {
+                        "nm": "3x2",
+                        "aspRto": 1.5,
+                        "url": "https://i.natgeofe.com/n/80f016c0-5655-4260-830d-43baa69779a1/NationalGeographic_1381718_3x2.jpg"
+                    },
+                    {
+                        "nm": "square",
+                        "aspRto": 1,
+                        "url": "https://i.natgeofe.com/n/80f016c0-5655-4260-830d-43baa69779a1/NationalGeographic_1381718_square.jpg"
+                    },
+                    {
+                        "nm": "2x3",
+                        "aspRto": 0.6666666666666666,
+                        "url": "https://i.natgeofe.com/n/80f016c0-5655-4260-830d-43baa69779a1/NationalGeographic_1381718_2x3.jpg"
+                    },
+                    {
+                        "nm": "3x4",
+                        "aspRto": 0.75,
+                        "url": "https://i.natgeofe.com/n/80f016c0-5655-4260-830d-43baa69779a1/NationalGeographic_1381718_3x4.jpg"
+                    },
+                    {
+                        "nm": "4x3",
+                        "aspRto": 1.3333333333333333,
+                        "url": "https://i.natgeofe.com/n/80f016c0-5655-4260-830d-43baa69779a1/NationalGeographic_1381718_4x3.jpg"
+                    },
+                    {
+                        "nm": "2x1",
+                        "aspRto": 2,
+                        "url": "https://i.natgeofe.com/n/80f016c0-5655-4260-830d-43baa69779a1/NationalGeographic_1381718_2x1.jpg"
+                    }
+                ],
+                "rt": "https://i.natgeofe.com/n/80f016c0-5655-4260-830d-43baa69779a1/NationalGeographic_1381718",
+                "src": "https://i.natgeofe.com/n/80f016c0-5655-4260-830d-43baa69779a1/NationalGeographic_1381718.jpg",
+                "dsc": "Cahokia's central plaza is now part of a 2,200-acre historical site.",
+                "ext": "jpg",
+                "ttl": "cahokia-trees"
+            },
+            "abstract": "Once found near present-day St. Louis in Illinois, Cahokia suddenly declined 600 years ago, and no one knows why.",
+            "title": "Why was the ancient city of Cahokia abandoned? New clues rule out one theory.",
+            "tags": [
+                {
+                    "name": "Environment",
+                    "id": "623ce370-3e67-3fb2-b9a5-070ceb9b2de5",
+                    "type": "sources",
+                    "uri": "https://www.nationalgeographic.com/environment"
+                }
+            ]
+        },
+        {
+            "id": "29044477-031c-45c0-86cb-f8b342b6be26-f2-m3-t1",
+            "cmsType": "RegularEdgeToEdgePrismTile",
+            "description": "Recent studies suggest lightning in the far North could double by 2100 and that the increase may already be underway.",
+            "ctas": [
+                {
+                    "url": "https://www.nationalgeographic.com/environment/article/once-rare-arctic-lighting-is-now-more-frequent-and-may-reshape-the-region",
+                    "text": "natgeo.ctaText.read",
+                    "icon": "article"
+                }
+            ],
+            "img": {
+                "crps": [
+                    {
+                        "nm": "raw",
+                        "aspRto": 1.5058823529411764,
+                        "url": "https://i.natgeofe.com/n/6993a0ab-790d-467d-b9db-d85b5c5ccb9d/C44AHH.jpg"
+                    },
+                    {
+                        "nm": "16x9",
+                        "aspRto": 1.7777777777777777,
+                        "url": "https://i.natgeofe.com/n/6993a0ab-790d-467d-b9db-d85b5c5ccb9d/C44AHH_16x9.jpg"
+                    },
+                    {
+                        "nm": "3x2",
+                        "aspRto": 1.5,
+                        "url": "https://i.natgeofe.com/n/6993a0ab-790d-467d-b9db-d85b5c5ccb9d/C44AHH_3x2.jpg"
+                    },
+                    {
+                        "nm": "square",
+                        "aspRto": 1,
+                        "url": "https://i.natgeofe.com/n/6993a0ab-790d-467d-b9db-d85b5c5ccb9d/C44AHH_square.jpg"
+                    },
+                    {
+                        "nm": "2x3",
+                        "aspRto": 0.6666666666666666,
+                        "url": "https://i.natgeofe.com/n/6993a0ab-790d-467d-b9db-d85b5c5ccb9d/C44AHH_2x3.jpg"
+                    },
+                    {
+                        "nm": "3x4",
+                        "aspRto": 0.75,
+                        "url": "https://i.natgeofe.com/n/6993a0ab-790d-467d-b9db-d85b5c5ccb9d/C44AHH_3x4.jpg"
+                    },
+                    {
+                        "nm": "4x3",
+                        "aspRto": 1.3333333333333333,
+                        "url": "https://i.natgeofe.com/n/6993a0ab-790d-467d-b9db-d85b5c5ccb9d/C44AHH_4x3.jpg"
+                    },
+                    {
+                        "nm": "2x1",
+                        "aspRto": 2,
+                        "url": "https://i.natgeofe.com/n/6993a0ab-790d-467d-b9db-d85b5c5ccb9d/C44AHH_2x1.jpg"
+                    }
+                ],
+                "rt": "https://i.natgeofe.com/n/6993a0ab-790d-467d-b9db-d85b5c5ccb9d/C44AHH",
+                "src": "https://i.natgeofe.com/n/6993a0ab-790d-467d-b9db-d85b5c5ccb9d/C44AHH.jpg",
+                "dsc": "Lightning flashes during a storm, Yukon, August.",
+                "ext": "jpg",
+                "ttl": "arctic-lightning"
+            },
+            "abstract": "Recent studies suggest lightning in the far North could double by 2100 and that the increase may already be underway.",
+            "title": "Once-rare Arctic lightning is now more frequent\u2014and may reshape the region",
+            "tags": [
+                {
+                    "name": "Environment",
+                    "id": "623ce370-3e67-3fb2-b9a5-070ceb9b2de5",
+                    "type": "sources",
+                    "uri": "https://www.nationalgeographic.com/environment"
+                }
+            ]
+        },
+        {
+            "id": "29044477-031c-45c0-86cb-f8b342b6be26-f2-m3-t1",
+            "cmsType": "RegularEdgeToEdgePrismTile",
+            "description": "The tiny fishing fleet from St. Paul is losing the fight for halibut, up against factory ships that throw away more of the valuable fish than the Indigenous fishers are allowed to catch.",
+            "ctas": [
+                {
+                    "url": "https://www.nationalgeographic.com/environment/article/halibut-decline-alaska-native-fishers-square-off-against-industrial-fleets",
+                    "text": "natgeo.ctaText.read",
+                    "icon": "article"
+                }
+            ],
+            "img": {
+                "crps": [
+                    {
+                        "nm": "raw",
+                        "aspRto": 1.5003663003663004,
+                        "url": "https://i.natgeofe.com/n/e10a72e4-a29d-4da9-ba31-23f8b96ef79d/01_R3W70K.jpg"
+                    },
+                    {
+                        "nm": "16x9",
+                        "aspRto": 1.7777777777777777,
+                        "url": "https://i.natgeofe.com/n/e10a72e4-a29d-4da9-ba31-23f8b96ef79d/01_R3W70K_16x9.jpg"
+                    },
+                    {
+                        "nm": "3x2",
+                        "aspRto": 1.5,
+                        "url": "https://i.natgeofe.com/n/e10a72e4-a29d-4da9-ba31-23f8b96ef79d/01_R3W70K_3x2.jpg"
+                    },
+                    {
+                        "nm": "square",
+                        "aspRto": 1,
+                        "url": "https://i.natgeofe.com/n/e10a72e4-a29d-4da9-ba31-23f8b96ef79d/01_R3W70K_square.jpg"
+                    },
+                    {
+                        "nm": "2x3",
+                        "aspRto": 0.6666666666666666,
+                        "url": "https://i.natgeofe.com/n/e10a72e4-a29d-4da9-ba31-23f8b96ef79d/01_R3W70K_2x3.jpg"
+                    },
+                    {
+                        "nm": "3x4",
+                        "aspRto": 0.75,
+                        "url": "https://i.natgeofe.com/n/e10a72e4-a29d-4da9-ba31-23f8b96ef79d/01_R3W70K_3x4.jpg"
+                    },
+                    {
+                        "nm": "4x3",
+                        "aspRto": 1.3333333333333333,
+                        "url": "https://i.natgeofe.com/n/e10a72e4-a29d-4da9-ba31-23f8b96ef79d/01_R3W70K_4x3.jpg"
+                    },
+                    {
+                        "nm": "2x1",
+                        "aspRto": 2,
+                        "url": "https://i.natgeofe.com/n/e10a72e4-a29d-4da9-ba31-23f8b96ef79d/01_R3W70K_2x1.jpg"
+                    }
+                ],
+                "rt": "https://i.natgeofe.com/n/e10a72e4-a29d-4da9-ba31-23f8b96ef79d/01_R3W70K",
+                "src": "https://i.natgeofe.com/n/e10a72e4-a29d-4da9-ba31-23f8b96ef79d/01_R3W70K.jpg",
+                "dsc": "Halibut fishing with halibut on the line in Amalik Bay, Alaska.",
+                "ext": "jpg",
+                "ttl": "halibut-on-hook"
+            },
+            "abstract": "The tiny fishing fleet from St. Paul is losing the fight for halibut, up against factory ships that throw away more of the valuable fish than the Indigenous fishers are allowed to catch.",
+            "title": "As halibut decline, Alaska Native fishers square off against industrial fleets",
+            "tags": [
+                {
+                    "name": "Environment",
+                    "id": "623ce370-3e67-3fb2-b9a5-070ceb9b2de5",
+                    "type": "sources",
+                    "uri": "https://www.nationalgeographic.com/environment"
+                }
+            ]
+        },
+        {
+            "id": "29044477-031c-45c0-86cb-f8b342b6be26-f2-m3-t1",
+            "cmsType": "RegularEdgeToEdgePrismTile",
+            "description": "Millions of gallons of wastewater discharged into Tampa Bay may spur red tides or other harmful algae blooms.",
+            "ctas": [
+                {
+                    "url": "https://www.nationalgeographic.com/environment/article/hazardous-spill-in-florida-highlights-environmental-threat-decades-in-the-making",
+                    "text": "natgeo.ctaText.read",
+                    "icon": "article"
+                }
+            ],
+            "img": {
+                "crps": [
+                    {
+                        "nm": "raw",
+                        "aspRto": 1.524390243902439,
+                        "url": "https://i.natgeofe.com/n/7faab6f8-3f78-4e9f-9f90-ace1f3c3895a/AP_21093756393130.jpg"
+                    },
+                    {
+                        "nm": "16x9",
+                        "aspRto": 1.7777777777777777,
+                        "url": "https://i.natgeofe.com/n/7faab6f8-3f78-4e9f-9f90-ace1f3c3895a/AP_21093756393130_16x9.jpg"
+                    },
+                    {
+                        "nm": "3x2",
+                        "aspRto": 1.5,
+                        "url": "https://i.natgeofe.com/n/7faab6f8-3f78-4e9f-9f90-ace1f3c3895a/AP_21093756393130_3x2.jpg"
+                    },
+                    {
+                        "nm": "square",
+                        "aspRto": 1,
+                        "url": "https://i.natgeofe.com/n/7faab6f8-3f78-4e9f-9f90-ace1f3c3895a/AP_21093756393130_square.jpg"
+                    },
+                    {
+                        "nm": "2x3",
+                        "aspRto": 0.6666666666666666,
+                        "url": "https://i.natgeofe.com/n/7faab6f8-3f78-4e9f-9f90-ace1f3c3895a/AP_21093756393130_2x3.jpg"
+                    },
+                    {
+                        "nm": "3x4",
+                        "aspRto": 0.75,
+                        "url": "https://i.natgeofe.com/n/7faab6f8-3f78-4e9f-9f90-ace1f3c3895a/AP_21093756393130_3x4.jpg"
+                    },
+                    {
+                        "nm": "4x3",
+                        "aspRto": 1.3333333333333333,
+                        "url": "https://i.natgeofe.com/n/7faab6f8-3f78-4e9f-9f90-ace1f3c3895a/AP_21093756393130_4x3.jpg"
+                    },
+                    {
+                        "nm": "2x1",
+                        "aspRto": 2,
+                        "url": "https://i.natgeofe.com/n/7faab6f8-3f78-4e9f-9f90-ace1f3c3895a/AP_21093756393130_2x1.jpg"
+                    }
+                ],
+                "rt": "https://i.natgeofe.com/n/7faab6f8-3f78-4e9f-9f90-ace1f3c3895a/AP_21093756393130",
+                "src": "https://i.natgeofe.com/n/7faab6f8-3f78-4e9f-9f90-ace1f3c3895a/AP_21093756393130.jpg",
+                "dsc": "This aerial photo taken from an airplane shows a reservoir near the old Piney Point phosphate mine, Saturday, April 3, 2021 in Bradenton, Fla. Florida Gov. Ron DeSantis declared a state of emergency Saturday after a significant leak at a large pond of wastewater threatened to flood roads and burst a system that stores polluted waters. The pond where the leak was discovered is at the old Piney Point phosphate mine, sitting in a stack of phosphogypsum, a waste product from manufacturing fertilizer that is radioactive.",
+                "ext": "jpg",
+                "ttl": "wastewater-reservoir-leak"
+            },
+            "abstract": "Millions of gallons of wastewater discharged into Tampa Bay may spur red tides or other harmful algae blooms.",
+            "title": "Hazardous spill in Florida highlights environmental threat decades in the making",
+            "tags": [
+                {
+                    "name": "Environment",
+                    "id": "623ce370-3e67-3fb2-b9a5-070ceb9b2de5",
+                    "type": "sources",
+                    "uri": "https://www.nationalgeographic.com/environment"
+                }
+            ]
+        },
+        {
+            "id": "29044477-031c-45c0-86cb-f8b342b6be26-f2-m3-t1",
+            "cmsType": "RegularEdgeToEdgePrismTile",
+            "description": "Warming waters are killing some of the world\u2019s most spectacular coral, but scientists are scrambling to protect vulnerable areas and develop hardier species.",
+            "ctas": [
+                {
+                    "url": "https://www.nationalgeographic.com/magazine/article/how-coral-reefs-might-survive-climate-change-feature",
+                    "text": "natgeo.ctaText.read",
+                    "icon": "article"
+                }
+            ],
+            "img": {
+                "crps": [
+                    {
+                        "nm": "raw",
+                        "aspRto": 1.526080476900149,
+                        "url": "https://i.natgeofe.com/n/ca99f309-74aa-45c9-8f55-41db4d8f6391/NGM%20Coral%20Time%20Lapse-6.jpg"
+                    },
+                    {
+                        "nm": "16x9",
+                        "aspRto": 1.7777777777777777,
+                        "url": "https://i.natgeofe.com/n/ca99f309-74aa-45c9-8f55-41db4d8f6391/NGM%20Coral%20Time%20Lapse-6_16x9.jpg"
+                    },
+                    {
+                        "nm": "3x2",
+                        "aspRto": 1.5,
+                        "url": "https://i.natgeofe.com/n/ca99f309-74aa-45c9-8f55-41db4d8f6391/NGM%20Coral%20Time%20Lapse-6_3x2.jpg"
+                    },
+                    {
+                        "nm": "square",
+                        "aspRto": 1,
+                        "url": "https://i.natgeofe.com/n/ca99f309-74aa-45c9-8f55-41db4d8f6391/NGM%20Coral%20Time%20Lapse-6_square.jpg"
+                    },
+                    {
+                        "nm": "2x3",
+                        "aspRto": 0.6666666666666666,
+                        "url": "https://i.natgeofe.com/n/ca99f309-74aa-45c9-8f55-41db4d8f6391/NGM%20Coral%20Time%20Lapse-6_2x3.jpg"
+                    },
+                    {
+                        "nm": "3x4",
+                        "aspRto": 0.75,
+                        "url": "https://i.natgeofe.com/n/ca99f309-74aa-45c9-8f55-41db4d8f6391/NGM%20Coral%20Time%20Lapse-6_3x4.jpg"
+                    },
+                    {
+                        "nm": "4x3",
+                        "aspRto": 1.3333333333333333,
+                        "url": "https://i.natgeofe.com/n/ca99f309-74aa-45c9-8f55-41db4d8f6391/NGM%20Coral%20Time%20Lapse-6_4x3.jpg"
+                    },
+                    {
+                        "nm": "2x1",
+                        "aspRto": 2,
+                        "url": "https://i.natgeofe.com/n/ca99f309-74aa-45c9-8f55-41db4d8f6391/NGM%20Coral%20Time%20Lapse-6_2x1.jpg"
+                    }
+                ],
+                "rt": "https://i.natgeofe.com/n/ca99f309-74aa-45c9-8f55-41db4d8f6391/NGM Coral Time Lapse-6",
+                "src": "https://i.natgeofe.com/n/ca99f309-74aa-45c9-8f55-41db4d8f6391/NGM Coral Time Lapse-6.jpg",
+                "dsc": "Opal Reef, part of Australia\u2019s Great Barrier Reef, was damaged when ocean temperatures spiked in 2016 and 2017. \u201cThe once colorful coral was a gray ruin and all but dead\u2014a skeletal statue created by climate change,\u201d says David Doubilet. To document how climate change affects reefs, he and Jennifer Hayes returned to some of the most stunning corals they\u2019d previously photographed.",
+                "ext": "jpg",
+                "ttl": "NGM Coral Time Lapse Lead"
+            },
+            "abstract": "Warming waters are killing some of the world\u2019s most spectacular coral, but scientists are scrambling to protect vulnerable areas and develop hardier species.",
+            "title": "How coral reefs might survive climate change",
+            "tags": [
+                {
+                    "name": "Magazine",
+                    "id": "9af83c1e-1fdc-3710-b252-c42eedb1b7c1",
+                    "type": "sources",
+                    "uri": "https://www.nationalgeographic.com/magazine"
+                },
+                {
+                    "name": "Planet Possible",
+                    "id": "938b311e-8648-368e-8058-12100da9e069",
+                    "type": "series",
+                    "uri": "https://www.nationalgeographic.com/pages/topic/planet-possible"
+                }
+            ]
+        }
+    ],
+    "id": "29044477-031c-45c0-86cb-f8b342b6be26-f2-m3",
+    "enableAds": true,
+    "pageInfo": {
+        "endCursor": "ODE6UkZsT1FWOHdJMGxFT2tSU1RueGtjbTQ2YzNKak9tNWhkR2RsYnpwMWJtbHpiMjQ2T25CeWIyUTZPR1l4T0RCa1lUY3RaamsxT1MwMFptRmlMVGt6TjJVdFl6QTRaV0ZsTVdSaE1XRXpJMU5QVWxRNmIzSnBaMmx1WVd4UWRXSnNhWE5vWldSRVlYUmxmREUyTVRjM01qa3pOamd5T0RVPQ",
+        "hasNextPage": true,
+        "hasPreviousPage": true,
+        "startCursor": "NzA6UkZsT1FWOHdJMGxFT2tSU1RueGtjbTQ2YzNKak9tNWhkR2RsYnpwMWJtbHpiMjQ2T25CeWIyUTZPREZsWldSak1XUXRZamxoTVMwMFpEQmlMV0UzWldNdE5EQTFZV1JqTnpNMVpHTTJJMU5QVWxRNmIzSnBaMmx1WVd4UWRXSnNhWE5vWldSRVlYUmxmREUyTVRnMU9UYzBOekl5TlRZPQ",
+        "totalCount": 676,
+        "totalPages": 57
+    }
+}
