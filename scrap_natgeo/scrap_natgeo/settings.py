@@ -12,6 +12,11 @@ BOT_NAME = 'scrap_natgeo'
 SPIDER_MODULES = ['scrap_natgeo.spiders']
 NEWSPIDER_MODULE = 'scrap_natgeo.spiders'
 FEED_EXPORT_ENCODING = 'utf-8'
+# CLOSESPIDER_PAGECOUNT = 4
+
+# Custom settings
+MAX_PAGE = 5
+TOPIC = 'environment'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
